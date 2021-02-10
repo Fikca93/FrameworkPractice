@@ -11,7 +11,8 @@ import org.junit.runner.RunWith;
         features = "src\\test\\resources\\features",
         dryRun = false,
         publish = true,
-        plugin = "json:target/cucumber.json"
+        plugin = "json:target/cucumber.json",
+        tags = ""
 
 )
 public class CucumberRunner {

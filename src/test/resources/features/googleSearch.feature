@@ -1,4 +1,6 @@
+@smoke @regression
 Feature: Test1
+
 
   Scenario: User is performing a search
     Given User is on a search page

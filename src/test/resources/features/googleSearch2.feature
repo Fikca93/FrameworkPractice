@@ -1,3 +1,4 @@
+@regression
 Feature: Test2
 
   Scenario: User is performing a search
